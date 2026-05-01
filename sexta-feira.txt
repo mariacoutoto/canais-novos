@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 
+
+https://lightning-now80s-rakuten.amagi.tv/playlist1080p.m3u8
+#EXTINF:-2
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-3
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/26dec0dd-23d6-461e-9d63-5a0f96ebd9ab/4.m3u8
+#EXTINF:-4
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+
+
+
